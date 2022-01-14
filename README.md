@@ -1,10 +1,6 @@
-<p align="center">
 [![MasterHead](https://raw.githubusercontent.com/OlegMeltow/OlegMeltow/main/header.png)](https://github.com/OlegMeltow)
-</p>
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegMeltow&theme=darcula&show_icons=true)
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -13,9 +9,7 @@
 <a href="https://www.youtube.com/channel/UCzEqZouguBnZqNmxhenh0lQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<p align="center">
 ![](https://komarev.com/ghpvc/?username=OlegMeltow&style=plastic-square)
-</p>
 
 <!--
 **OlegMeltow/OlegMeltow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
