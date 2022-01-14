@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![OlegMeltow's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegMeltow&theme=darkula&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
 <!--
 **OlegMeltow/OlegMeltow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
