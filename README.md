@@ -11,6 +11,8 @@
 <a href="https://www.youtube.com/channel/UCzEqZouguBnZqNmxhenh0lQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=OlegMeltow&style=plastic-square)
+
 <!--
 **OlegMeltow/OlegMeltow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
