@@ -2,9 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=OlegMeltow&style=plastic-square">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OlegMeltow/OlegMeltow/main/header.png">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%230B0B0B&center=true&vCenter=true&multiline=true&lines=Hello!;I'm+Oleg+Meltow!;And+I'll+do+my+best+to+be+a+front-end+web+developer.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OlegMeltow&theme=darcula&show_icons=true">
