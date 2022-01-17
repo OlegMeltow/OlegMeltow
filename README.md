@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OlegMeltow/OlegMeltow/main/header.png)](https://github.com/OlegMeltow">
+  <img src="https://raw.githubusercontent.com/OlegMeltow/OlegMeltow/main/header.png">
 </p>
 
 <p align="center">
