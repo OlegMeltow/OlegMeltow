@@ -2,9 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=OlegMeltow&style=plastic-square">
 </p>
 
-[![MasterHead](https://raw.githubusercontent.com/OlegMeltow/OlegMeltow/main/header.png)](https://github.com/OlegMeltow)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OlegMeltow/OlegMeltow/main/header.png)](https://github.com/OlegMeltow">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegMeltow&theme=darcula&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OlegMeltow&theme=darcula&show_icons=true">
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
