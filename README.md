@@ -1,5 +1,6 @@
-<center>![](https://komarev.com/ghpvc/?username=OlegMeltow&style=plastic-square)</center> 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OlegMeltow&style=plastic-square">
+</p>
 
 [![MasterHead](https://raw.githubusercontent.com/OlegMeltow/OlegMeltow/main/header.png)](https://github.com/OlegMeltow)
 
