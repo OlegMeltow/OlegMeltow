@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%230B0B0B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello!;I'm+Oleg+Meltow!;And+I'll+do+my+best+to+be+a+front-end+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%230B0B0B&center=true&multiline=true&width=600&height=100&lines=Hello!;I'm+Oleg+Meltow!;And+I'll+do+my+best+to+be+a+front-end+web+developer.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OlegMeltow&theme=darcula&show_icons=true">
